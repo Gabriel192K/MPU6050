@@ -5,4 +5,5 @@ MPU6050 is an IMU that consists of an accelerometer, a gyroscope and an internal
 - reading accelerometer and gyroscope
 - reading temperature from internal sensor (in Celsius)
 
-Tested on ATmega328P
+# Tested on
+- ATmega328P
